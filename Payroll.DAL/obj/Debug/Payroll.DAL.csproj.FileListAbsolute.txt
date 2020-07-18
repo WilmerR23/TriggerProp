@@ -1,0 +1,14 @@
+C:\Users\WilmerPC\source\repos\PayrollNet\Payroll.DAL\bin\Debug\Payroll.DAL.dll.config
+C:\Users\WilmerPC\source\repos\PayrollNet\Payroll.DAL\bin\Debug\Payroll.DAL.dll
+C:\Users\WilmerPC\source\repos\PayrollNet\Payroll.DAL\bin\Debug\Payroll.DAL.pdb
+C:\Users\WilmerPC\source\repos\PayrollNet\Payroll.DAL\bin\Debug\EntityFramework.dll
+C:\Users\WilmerPC\source\repos\PayrollNet\Payroll.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\WilmerPC\source\repos\PayrollNet\Payroll.DAL\bin\Debug\EntityFramework.xml
+C:\Users\WilmerPC\source\repos\PayrollNet\Payroll.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\WilmerPC\source\repos\PayrollNet\Payroll.DAL\obj\Debug\Payroll.DAL.csprojAssemblyReference.cache
+C:\Users\WilmerPC\source\repos\PayrollNet\Payroll.DAL\obj\Debug\Payroll.DAL.csproj.CopyComplete
+C:\Users\WilmerPC\source\repos\PayrollNet\Payroll.DAL\obj\Debug\Payroll.DAL.dll
+C:\Users\WilmerPC\source\repos\PayrollNet\Payroll.DAL\obj\Debug\Payroll.DAL.pdb
+C:\Users\WilmerPC\source\repos\PayrollNet\Payroll.DAL\obj\Debug\Payroll.DAL.Migrations.init.resources
+C:\Users\WilmerPC\source\repos\PayrollNet\Payroll.DAL\obj\Debug\Payroll.DAL.csproj.GenerateResource.cache
+C:\Users\WilmerPC\source\repos\PayrollNet\Payroll.DAL\obj\Debug\Payroll.DAL.Migrations.initial23.resources

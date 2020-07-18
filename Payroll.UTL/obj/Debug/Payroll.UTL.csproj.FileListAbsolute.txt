@@ -1,0 +1,8 @@
+C:\Users\WilmerPC\source\repos\PayrollNet\Payroll.UTL\bin\Debug\Payroll.UTL.dll
+C:\Users\WilmerPC\source\repos\PayrollNet\Payroll.UTL\bin\Debug\Payroll.UTL.pdb
+C:\Users\WilmerPC\source\repos\PayrollNet\Payroll.UTL\obj\Debug\Payroll.UTL.csprojAssemblyReference.cache
+C:\Users\WilmerPC\source\repos\PayrollNet\Payroll.UTL\obj\Debug\Payroll.UTL.dll
+C:\Users\WilmerPC\source\repos\PayrollNet\Payroll.UTL\obj\Debug\Payroll.UTL.pdb
+C:\Users\WilmerPC\source\repos\PayrollNet\Payroll.UTL\bin\Debug\FileHelpers.dll
+C:\Users\WilmerPC\source\repos\PayrollNet\Payroll.UTL\bin\Debug\FileHelpers.xml
+C:\Users\WilmerPC\source\repos\PayrollNet\Payroll.UTL\obj\Debug\Payroll.UTL.csproj.CopyComplete
